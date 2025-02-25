@@ -1,0 +1,65 @@
+ {
+        "name":"root",
+        "id":1,
+        "isFolder":true,
+        "children":[  {
+            "name":"public",
+            "id":2,
+            "isFolder": true,
+            "children":[
+                {
+                    "name":"index.html",
+                    "id":3,
+                    "isFolder":false,
+                    "children":[]
+                },
+                {
+                    "name":"favicon.ico",
+                    "id":4,
+                    "isFolder":false,
+                    "children":[]
+                }
+            ]
+        },
+        {
+            "name":"src",
+            "id":5,
+            "isFolder":"true",
+            "children":[
+                {
+                    "name":"components",
+                    "id":6,
+                    "isFolder":true,
+                    "children":[
+                        {
+                            "name":"treeview.js",
+                            "id":7,
+                            "isFolder":false,
+                            "children":[]
+                        },
+                        {
+                            "name":"test",
+                            "id":8,
+                            "isFolder":true,
+                            "children":[
+                                {
+                                    "name":"test.js",
+                                    "id":9,
+                                    "isFolder":false,
+                                    "children":[]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name":"package.json",
+            "id":10,
+            "isFolder":false,
+            "children":[]
+        }]
+    
+  
+}

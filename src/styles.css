@@ -1,0 +1,36 @@
+.tree-container {
+    margin-left: 20px;
+
+}
+
+
+
+
+
+.Nav-Bar {
+    /* background-color: lightskyblue; */
+    padding: 10px;
+    width: 100%;
+
+
+}
+
+.Nav-Bar nav {
+    width: 100%;
+    /* background-color: lightskyblue; */
+
+}
+
+.Nav-Bar ul {
+    list-style: none;
+    /* Removes default bullets */
+    padding: 0;
+    margin: 0;
+    width: 100%;
+
+
+    display: flex;
+    /* Aligns list items horizontally */
+    justify-content: space-around;
+
+}

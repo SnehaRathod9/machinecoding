@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "ser",
+      "username": "sdffg",
+      "phone": 12334555,
+      "email": "sdf"
+    },
+    {
+      "id": 2,
+      "name": "sedfffr",
+      "username": "sdfddddfg",
+      "phone": 1233445566555,
+      "email": "sdddf"
+    },
+    {
+      "id": "7776",
+      "name": "vbnnn",
+      "username": "asdd",
+      "email": "sas",
+      "phone": "2"
+    }
+  ]
+}
